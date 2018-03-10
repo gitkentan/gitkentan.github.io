@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-03-09_2215",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -462,7 +462,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": "4",
             "paddingBottom": "2",
@@ -476,7 +476,7 @@
             "overlayOpacity": 0.5
           },
           "title": "お問い合わせ",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "subtitle": "",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
           "form": {
             "action": "kencan46493923@gmail.com",
