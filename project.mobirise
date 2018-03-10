@@ -477,31 +477,31 @@
           },
           "title": "お問い合わせ",
           "subtitle": "",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">送信</a>",
           "form": {
-            "action": "kencan46493923@gmail.com",
+            "action": "yoizkeyo@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "お問い合わせありがとうございます。"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "氏名*"
               },
               "email": {
                 "visible": true,
                 "title": "Email",
-                "customTitle": "Email*"
+                "customTitle": "メールアドレス*"
               },
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "電話番号"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "お問い合わせ内容"
               }
             }
           },
@@ -534,7 +534,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE THIS PAGE!",
+          "text": "シェアしよう♪",
           "_tags": [
             "Theme"
           ],
